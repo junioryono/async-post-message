@@ -1,8 +1,8 @@
 {
-  "name": "@kinveil/async-post-message",
-  "version": "0.1.0",
+  "name": "@junioryono/async-post-message",
+  "version": "0.1.1",
   "description": "Asynchronous postMessage protocol for typed, promise-based windows and iFrame communication",
-  "author": "Kinveil",
+  "author": "junioryono",
   "license": "MIT",
   "keywords": [
     "postMessage",
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kinveil/async-post-message.git"
+    "url": "git+https://github.com/junioryono/async-post-message.git"
   },
   "scripts": {
     "build": "tsup",
